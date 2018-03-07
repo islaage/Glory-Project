@@ -10,6 +10,7 @@ public class GloriaSystem extends JavaPlugin {
     @Override
     public void onEnable() {
         getLogger().info("Project Glory");
+        getLogger().info("Test");
     }
 
     @Override
