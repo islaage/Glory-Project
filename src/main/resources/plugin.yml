@@ -1,0 +1,10 @@
+name: ProjectGlory
+version: 1.00
+main: com.github.islaage.GloriaSystem.GloriaSystem
+author: Age
+website: https://minecraft.jp/servers/agee.ddns.net
+
+commands:
+  test:
+      description: .
+      usage: /<command> <help>
